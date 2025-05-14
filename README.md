@@ -2,7 +2,7 @@
 
 An interactive Streamlit app for classifying sentiment in tweets and customer reviews using two models: Logistic Regression and fine-tuned BERT. Built for NLP explainability, analysis, and deployment.
 
-![App Screenshot](insert_app_screenshot.png) <!-- Optional: Add screenshot -->
+![App Screenshot](app.png) <!-- Optional: Add screenshot -->
 
 ---
 
