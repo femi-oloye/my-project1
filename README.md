@@ -22,7 +22,6 @@ An interactive Streamlit app for classifying sentiment in tweets and customer re
 ## 🚀 Demo
 
 📽️ [Watch the App Demo on YouTube](https://youtube.com/your-demo-link)  
-🌐 [Live App (optional)](https://share.streamlit.io/your-app-link)
 
 ---
 
